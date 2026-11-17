@@ -1,0 +1,2 @@
+# Titanic DataFrame
+A comprehensive data cleaning and preprocessing project focused on the Titanic dataset using Python, Pandas, and NumPy. This project explores data quality issues such as missing values, duplicate records, outliers, incorrect data types, noisy data, and inconsistent values. It also demonstrates practical techniques for data inspection, cleaning, transformation, and validation to prepare a reliable dataset for further analysis.
